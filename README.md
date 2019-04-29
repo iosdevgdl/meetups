@@ -7,7 +7,7 @@
 Horario: 7 pm - iniciar 7:15 pm</ul>
 <p>No hay lista de temas definidos, el unico requisito que sea iOS topic.<br />Toda la comunidad puede participar como speaker</p>
 <p>Si alguien quiere ser speaker se abre issue y el tema. <br />Elegir +1 para votar.</p>
-<p><a href="https://www.facebook.com/iOSDevGDL/">facebook.com/iOSDevGDL/</a><br />#IOSdevGDL</p>
+<p><a href="https://www.facebook.com/iOSDevGDL/">facebook.com/iOSDevGDL/</a><br />#iOSdevGDL</p>
 <p>&nbsp;</p>
 
 
