@@ -13,4 +13,4 @@ Horario: 7 pm - iniciar 7:15 pm</ul>
 
 
 # Quiero ser speaker
-El tema lo elige cada persona. Puede ser cualquier tema relacionado con Apple, iOS Watch OS, TV OS, temas nuevos, buenas practicas, tips, patrones de diseño y experiencias del mundo real. No importa que tanto quieras profundizar en el tema, siempre son bienvenidos todos los participantes. 
+El tema lo elige cada persona. Puede ser cualquier tema relacionado con Apple, iOS Watch OS, TV OS, temas nuevos, buenas practicas, tips, patrones de diseño y experiencias del mundo real. No importa qué tanto quieras profundizar en el tema, siempre son bienvenidos todos los participantes. 
